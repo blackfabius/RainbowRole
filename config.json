@@ -3,8 +3,8 @@
 	"servers": [
 		"137290656803454977"
 	],
-	"roleName": "rainbow",
-	"colors": 16,
+	"roleName": "Rainbow",
+	"colors": 48,
 	"speed": 60000,
 	"logging": true
 }
